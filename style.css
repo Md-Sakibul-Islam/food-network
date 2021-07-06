@@ -4,6 +4,17 @@ body {
 section {
   margin-bottom: 100px;
 }
+.menu-portion a{
+    text-decoration: none;
+    padding: 10px 25px;
+    display: inline-block;
+    color: #575757;
+    font-weight: bold;
+    font-size: 18px;
+   
+    
+}
+
 .word-color {
   color: orange;
 }
